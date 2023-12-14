@@ -1,2 +1,1 @@
-# battleship_game
-Just a other game
+Just another repository to fill. So far empty
